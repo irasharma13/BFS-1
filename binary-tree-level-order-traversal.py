@@ -20,3 +20,5 @@ class Solution:
         helper(root, 0)
         return res
         
+#Time Complexity: O(n)
+#Space Complexity: O(n)

@@ -30,4 +30,6 @@ class Solution:
         return False
 
 
-        
+# Time Complexity: O(V + E) 
+# Space Complexity: O(V + E)
+# V - number of courses, E - number of prerequisites
